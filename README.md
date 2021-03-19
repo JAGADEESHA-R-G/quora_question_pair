@@ -4,7 +4,7 @@
 #### when a Question is asked on Quora, check whether quora has previously answered similar questions. So the task here is to classify pair of questions whether they are similar or not
 
 ### Dataset:
-#### get the Dataset [here](https://www.kaggle.com/quora/question-pairs-dataset)
+#### Download the Dataset [here](https://www.kaggle.com/quora/question-pairs-dataset)
 
 ### Contents of Notebook:
 
