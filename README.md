@@ -1,7 +1,7 @@
 ## quora_question_pair
 
 ### Problem Statement:
-#### when a Question is asked on Quora, check whether quora has previously answered similar questions. So the task here is to classify 2 questions whether they are similar or not
+#### when a Question is asked on Quora, check whether quora has previously answered similar questions. So the task here is to classify pair of questions whether they are similar or not
 
 ### Dataset:
 #### get the Dataset [here](https://www.kaggle.com/quora/question-pairs-dataset)
